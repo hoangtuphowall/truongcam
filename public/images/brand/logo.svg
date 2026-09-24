@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="logoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f" />
+      <stop offset="50%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#0070f3" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff066" />
+      <stop offset="100%" stop-color="#ff9900" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="50" fill="url(#logoBg)" />
+  <rect x="4" y="4" width="192" height="192" rx="46" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="3" />
+  <!-- Graduation cap & knowledge flame -->
+  <path d="M100 45 L160 75 L100 105 L40 75 Z" fill="#ffffff" />
+  <path d="M65 92 L65 130 C65 146 135 146 135 130 L130 92" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" />
+  <path d="M160 75 L160 120" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" />
+  <circle cx="160" cy="126" r="6" fill="#ffe066" />
+  <!-- Open Book & Star -->
+  <path d="M70 145 C85 140 98 145 100 152 C102 145 115 140 130 145 L130 162 C115 157 102 162 100 168 C98 162 85 157 70 162 Z" fill="url(#gold)" />
+</svg>

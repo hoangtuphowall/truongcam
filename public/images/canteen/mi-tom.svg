@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="g_mi-tom" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#g_mi-tom)" />
+  <circle cx="340" cy="60" r="100" fill="rgba(255,255,255,0.12)" />
+  <circle cx="200" cy="120" r="60" fill="rgba(255,255,255,0.2)" />
+  <text x="200" y="138" font-size="64" text-anchor="middle" dominant-baseline="middle">🍜</text>
+  <rect x="20" y="200" width="360" height="80" rx="16" fill="rgba(0,0,0,0.5)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5" />
+  <text x="40" y="232" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Mì Tôm Trứng Xúc Xích</text>
+  <text x="40" y="258" font-family="-apple-system, sans-serif" font-size="12" fill="rgba(255,255,255,0.7)">Bữa sáng nhanh đầy năng lượng</text>
+  <text x="360" y="246" font-family="-apple-system, monospace" font-size="16" font-weight="900" fill="#fcd34d" text-anchor="end">15.000đ</text>
+</svg>
