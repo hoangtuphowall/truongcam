@@ -23,7 +23,6 @@ Tất cả hình ảnh mặc định được quản lý tại thư mục `/publ
 - `/public/images/posts/`: Ảnh các bài đăng sự kiện trường, đoàn trường, kỷ yếu
 - `/public/images/canteen/`: Hình ảnh món ăn, đồ uống căng-tin
 - `/public/images/campus/`: Hình ảnh khuôn viên và sơ đồ trường THPT Cẩm Bình
-
 ## 🗄️ Backend (Supabase) — Bắt Buộc Trước Khi Chạy
 
 Dự án đã được chuyển từ `localStorage` giả sang backend thật bằng **Supabase**
