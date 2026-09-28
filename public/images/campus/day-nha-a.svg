@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="cg_day-nha-a" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="24" fill="url(#cg_day-nha-a)" />
+  <rect x="20" y="20" width="560" height="360" rx="20" fill="rgba(0,0,0,0.4)" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+  <text x="300" y="170" font-size="80" text-anchor="middle" dominant-baseline="middle">🏛️</text>
+  <text x="300" y="260" font-family="-apple-system, sans-serif" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">Dãy Nhà A (3 Tầng)</text>
+  <text x="300" y="295" font-family="-apple-system, sans-serif" font-size="14" fill="rgba(255,255,255,0.8)" text-anchor="middle">Khối 12 & Phòng Ban Giám Hiệu</text>
+  <rect x="200" y="325" width="200" height="32" rx="16" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" />
+  <text x="300" y="346" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" fill="#38e6c5" text-anchor="middle">THPT CẨM BÌNH</text>
+</svg>

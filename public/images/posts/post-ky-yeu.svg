@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff758c" />
+      <stop offset="40%" stop-color="#ff7eb3" />
+      <stop offset="100%" stop-color="#7afcff" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)" />
+  <!-- Sun and trees -->
+  <circle cx="680" cy="140" r="70" fill="#fffbe0" opacity="0.8" />
+  <path d="M0 450 Q200 420 400 440 T800 430 L800 600 L0 600 Z" fill="#2d6a4f" opacity="0.85" />
+  <path d="M0 480 Q300 460 600 490 L800 470 L800 600 L0 600 Z" fill="#1b4332" />
+  
+  <!-- School roof silhoutte in background -->
+  <polygon points="120,400 240,320 360,400" fill="#8b263e" opacity="0.7" />
+  <rect x="150" y="400" width="180" height="80" fill="#d88c9a" opacity="0.7" />
+  
+  <!-- Quote card -->
+  <rect x="100" y="100" width="600" height="300" rx="30" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.6)" stroke-width="2" style="backdrop-filter: blur(20px);" />
+  <text x="400" y="170" font-size="44" text-anchor="middle">🌸</text>
+  <text x="400" y="225" font-family="-apple-system, serif" font-style="italic" font-size="22" font-weight="700" fill="#1b4332" text-anchor="middle">"Áo dài trắng thướt tha sân trường Cẩm Bình,"</text>
+  <text x="400" y="265" font-family="-apple-system, serif" font-style="italic" font-size="20" font-weight="600" fill="#1b4332" text-anchor="middle">Dưới ánh nắng vàng óng ả của miền quê Hà Tĩnh yêu thương...</text>
+  <text x="400" y="330" font-family="-apple-system, sans-serif" font-size="14" font-weight="800" fill="#5c1d2e" text-anchor="middle" letter-spacing="2">KỶ NIỆM 3 NĂM CẤP 3 · TẬP THỂ 12A1</text>
+</svg>

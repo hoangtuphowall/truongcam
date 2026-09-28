@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="techBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#f093fb" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#techBg)" />
+  <circle cx="200" cy="200" r="160" fill="rgba(79, 172, 254, 0.15)" filter="blur(40px)" />
+  <circle cx="600" cy="400" r="180" fill="rgba(240, 147, 251, 0.15)" filter="blur(40px)" />
+
+  <rect x="80" y="80" width="640" height="440" rx="36" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+  
+  <text x="400" y="160" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" fill="#38bdf8" text-anchor="middle" letter-spacing="3">SIÊU ỨNG DỤNG HỌC SINH CẨM BÌNH</text>
+  <text x="400" y="215" font-family="-apple-system, sans-serif" font-size="38" font-weight="900" fill="#ffffff" text-anchor="middle">HỆ ĐIỀU HÀNH TRƯỜNG CẨM</text>
+  
+  <rect x="150" y="245" width="500" height="4" rx="2" fill="url(#glowLine)" />
+
+  <!-- App badges row -->
+  <g transform="translate(140, 280)">
+    <rect width="110" height="110" rx="24" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" />
+    <text x="55" y="55" font-size="36" text-anchor="middle">🤖</text>
+    <text x="55" y="88" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">Cẩm AI</text>
+  </g>
+  <g transform="translate(270, 280)">
+    <rect width="110" height="110" rx="24" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" />
+    <text x="55" y="55" font-size="36" text-anchor="middle">🥪</text>
+    <text x="55" y="88" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">Căng-tin</text>
+  </g>
+  <g transform="translate(400, 280)">
+    <rect width="110" height="110" rx="24" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" />
+    <text x="55" y="55" font-size="36" text-anchor="middle">💳</text>
+    <text x="55" y="88" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">CẩmPay</text>
+  </g>
+  <g transform="translate(530, 280)">
+    <rect width="110" height="110" rx="24" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" />
+    <text x="55" y="55" font-size="36" text-anchor="middle">🗺️</text>
+    <text x="55" y="88" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">Bản Đồ Trường</text>
+  </g>
+
+  <text x="400" y="455" font-family="-apple-system, sans-serif" font-size="14" font-weight="600" fill="rgba(255,255,255,0.7)" text-anchor="middle">Thiết kế chuẩn Liquid Glass iOS · Tối ưu cho học sinh THPT Cẩm Bình</text>
+</svg>

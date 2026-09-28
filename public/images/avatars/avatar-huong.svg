@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g_avatar-huong" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6bcb" />
+      <stop offset="100%" stop-color="#38e6c5" />
+    </linearGradient>
+    <filter id="shadow_avatar-huong">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="url(#g_avatar-huong)" stroke="rgba(255,255,255,0.4)" stroke-width="3" />
+  <circle cx="60" cy="60" r="42" fill="rgba(255,255,255,0.16)" />
+  <text x="60" y="66" font-size="44" text-anchor="middle" dominant-baseline="middle" filter="url(#shadow_avatar-huong)">📚</text>
+  <rect x="22" y="88" width="76" height="20" rx="10" fill="rgba(0,0,0,0.55)" stroke="rgba(255,255,255,0.25)" stroke-width="1" />
+  <text x="60" y="102" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5" font-weight="700" fill="#ffffff" text-anchor="middle">11A2</text>
+</svg>

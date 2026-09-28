@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="wood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c1810" />
+      <stop offset="100%" stop-color="#1a0c06" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#wood)" />
+  <rect x="80" y="80" width="640" height="440" rx="32" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+  
+  <text x="400" y="160" font-size="52" text-anchor="middle">📚🌿</text>
+  <text x="400" y="230" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">THƯ VIỆN THPT CẨM BÌNH</text>
+  <text x="400" y="270" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#fcd34d" text-anchor="middle">Không Gian Học Tập Xanh &amp; Yên Tĩnh · Tầng 2 Dãy Nhà A</text>
+
+  <rect x="180" y="320" width="440" height="110" rx="20" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" />
+  <text x="400" y="365" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Kho Sách &amp; Tài Liệu Ôn Thi Mới Đã Về</text>
+  <text x="400" y="395" font-family="-apple-system, sans-serif" font-size="13" fill="rgba(255,255,255,0.7)" text-anchor="middle">Bộ đề Sử - Địa - GDCD 2026, Sách văn học kinh điển, Máy tính tra cứu</text>
+
+  <text x="400" y="475" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#a7f3d0" text-anchor="middle">Mở cửa từ 6h30 - 17h30 các ngày trong tuần</text>
+</svg>
